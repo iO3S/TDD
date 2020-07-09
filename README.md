@@ -15,86 +15,48 @@
 
 * 오프라인 스터디 어카이빙 + 추후 간략히 복습할 목적입니다.
 
-* **Section I: Introduction**
+* **Section I: Hello, TDD!**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :--- | :--- |
-  > |1|Why Learn Data Structures & Algorithms?| [장희] |[노션](https://www.notion.so/Chapter-1-Why-Learn-Data-Structures-Algorithms-515fcf0886a7471692a29d7d9de00931)|
-  > |2|Complexity| [장희] |[노션](https://www.notion.so/Chapter-2-Complexity-68e6074ed81843439bf4e13949279a6b)|
-  > |3|Swift Standard Library|[태헌]|[슬라이드](https://github.com/iO3S/DataStructures-Algorithm/blob/master/Ch3/Ch3_Swift_STL.pdf)|
+  > |1|What Is TDD?|[장희]|[PDF](https://www.notion.so/Chapter-1-Why-Learn-Data-Structures-Algorithms-515fcf0886a7471692a29d7d9de00931)|
+  > |2|The TDD Cycle|[장희]|[PDF](https://www.notion.so/Chapter-2-Complexity-68e6074ed81843439bf4e13949279a6b)|
 
-* **Section II: Elementary Data Structures**
+* **Section II: Beginning TDD**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
-  > |4|Stack Data Structure|[경준]|[블로그](https://minkkkjoon.github.io/Data-Structure-Stack/)|
-  > |5|Stack Challenges|[경준]||
-  > |6|Linked List|[성훈]|[드롭박스 문서](https://paper.dropbox.com/doc/Linked-List--AsjwdT_JJorafcHZI6BknxXKAg-PhhtalXnsUhBPqZpXdC0v)|
-  > |7|Linked List Challenges|[성훈]||
-  > |8|Queues|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/queue-in-swift-220577719), [유튜브](https://youtu.be/icw6Kq5Xs3M)|
-  > |9|Queue Challenges|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/queue-challenges-in-swift-220685044)|
+  > |3|TDD App Setup|[도미닉]|[PPT](https://minkkkjoon.github.io/Data-Structure-Stack/)|
+  > |4|Test Expressions|[도미닉]||
+  > |5|Test Expectations|[련호]|[PPT](https://paper.dropbox.com/doc/Linked-List--AsjwdT_JJorafcHZI6BknxXKAg-PhhtalXnsUhBPqZpXdC0v)|
+  > |6|Dependency Injection & Mocks|[성훈]||
 
-* **Section III: Trees**
+* **Section III: TDD with Networking**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
-  > |10|Trees|[종찬]|[블로그](https://medium.com/@successful_camel_guineapig_266/chapter-10-trees-ee883cf24b2)|
-  > |11|Tree Challenges|[종찬]|[블로그](https://medium.com/@successful_camel_guineapig_266/chapter-11-tree-challenges-203831cdc485)|
-  > |12|Binary Trees|[련호]|[노션](https://www.notion.so/Chapter-11-BinaryTree-f30985b2e43d4dd2ac2a7847ebd83d89)|
-  > |13|Binary Tree Challenges|[련호]|[노션](https://www.notion.so/Chapter-12-Binary-Tree-Challenges-e0023451737442f2aa7a837ff46215a0)|
-  > |14|Binary Search Trees|[태헌]|[슬라이드](https://github.com/iO3S/DataStructures-Algorithm/blob/master/BST.pdf)|
-  > |15|Binary Search Tree Challenges|[태헌]||
-  > |16|AVL Trees|[장희]|[노션](https://www.notion.so/AVL-TREE-447a3ea4504e4e3192c70e3113231582)|
-  > |17|AVL Tree Challenges|[장희]||
-  > |18|Tries|[경준]|[노션](https://www.notion.so/Chapter-18-Tries-Kor-4f507a4bae594bb88d8d2d58c9dfe8d4)|
-  > |19|Trie Challenges|[경준]||
-  > |20|Binary Search|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/binary-search-228717962)|
-  > |21|Binary Search Challenges|[도미닉]||
-  > |22|The Heap Data Structure|[성훈]|[드롭박스 문서](https://paper.dropbox.com/doc/The-Heap-Data-Structure--AuoD4L7Hzse7fm5QbC3~C_JKAg-5YhTxdUVc8BqsQ6fMRV16)|
-  > |23|Heap Data Structure Challenges|[성훈]||
-  > |24|Priority Queue|[장희]|[노션](https://www.notion.so/Priority-Queue-75f30d4cb1bc4c65911711a9508120d7)|
-  > |25|Priority Queue Challenges|[장희]||
+  > |7|Introducing Dog Patch|||
+  > |8|Networking client|||
+  > |9|Using the Network Client|||
+  > |10|Image Client|||
 
-* **Section IV: Sorting Algorithms**
+* **Section IV: TDD in Legacy Apps**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
-  > |26|O(n2) Sorting Algorithms|[태헌]|[슬라이드](https://github.com/iO3S/DataStructures-Algorithm/blob/master/merge-sort.pdf)|
-  > |27|O(n2) Sorting Challenges|[태헌]||
-  > |28|Merge Sort|[종찬]|[노션](https://www.notion.so/En-kr-4dcb4f766847435abfdfeea1e461b221)|
-  > |29|Merge Sort Challenges|[종찬]||
-  > |30|Radix Sort|[경준]|[노션](https://www.notion.so/Radix-Sort-5b8706ef8cfd40f5b76012dc0b4bb64b)|
-  > |31|Radix Sort Challenges|[경준]||
-  > |32|Heap Sort|[경준]|[노션](https://www.notion.so/Heap-Sort-200ae1c476524f0f99839465eeb78d35)|
-  > |33|Heap Sort Challenges|[경준]||
-  > |34|Quicksort|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/quick-sort-in-swift)|
-  > |35|Quicksort Challenges|[도미닉]||
-
-* **Section V: Graphs**
-  > | Ch# | Chapter Subject | Presenter | Note |
-  > |:---:| :--- | :---: | :--- |
-  > |36|Graphs|[성훈]|[드롭박스](https://paper.dropbox.com/doc/Graphs--AweGOnY1PLbSNLWg9Vpfwmq~Ag-c0cDyFyJxKWRCP3wGfBpt)|
-  > |37|Graphs Challenges|[성훈]||
-  > |38|Breadth-First Search|[련호]|[노션](https://www.notion.so/Chapter-38-Breadth-First-Search-44f27c69ac134a07a6b05d9baf07d06d)|
-  > |39|Breadth-First Search Challenges|[련호]||
-  > |40|Depth-First Search|[종찬]|[블로그](https://medium.com/@successful_camel_guineapig_266/chapter-40-depth-first-search-dc4b3e21cba)|
-  > |41|Depth-First Search Challenges|[종찬]||
-  > |42|Dijkstra's Algorithm| ||
-  > |43|Dijkstra's Algorithm Challenges|  ||
-  > |44|Prim's Algorithm| ||
-  > |45|Prim's Algorithm Challenges|  ||
+  > |11|Legacy Problems|||
+  > |12|Dependency Maps|||
+  > |13|Breaking Up Dependencies|||
+  > |14|Modularizing Dependencies|||
+  > |15|Adding Features to Existing Classes|||
 
 ## Contributors
 
 > 역대 발표자
 
 * [장희]
-* [태헌]
-* [경준]
 * [성훈]
 * [도미닉]
 * [종찬]
 * [련호]
 
 [장희]: https://github.com/purpufu
-[태헌]: https://github.com/newoo
-[경준]: https://github.com/minkkkjoon
 [성훈]: https://github.com/Seonghun23
 [도미닉]: https://github.com/AppleCEO
 [종찬]: https://github.com/kimdaeman14
