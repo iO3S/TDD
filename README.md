@@ -18,14 +18,14 @@
 * **Section I: Hello, TDD!**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :--- | :--- |
-  > |1|What Is TDD?|[장희]|[PDF](https://www.notion.so/Chapter-1-Why-Learn-Data-Structures-Algorithms-515fcf0886a7471692a29d7d9de00931)|
-  > |2|The TDD Cycle|[장희]|[PDF](https://www.notion.so/Chapter-2-Complexity-68e6074ed81843439bf4e13949279a6b)|
+  > |1|What Is TDD?|[장희]|[PDF](Chapter1.pdf)|
+  > |2|The TDD Cycle|[장희]|[PDF](Chapter2.pdf)|
 
 * **Section II: Beginning TDD**
   > | Ch# | Chapter Subject | Presenter | Note |
   > |:---:| :--- | :---: | :--- |
-  > |3|TDD App Setup|[도미닉]|[PPT](https://minkkkjoon.github.io/Data-Structure-Stack/)|
-  > |4|Test Expressions|[도미닉]||
+  > |3|TDD App Setup|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/tdd-app-setup)|
+  > |4|Test Expressions|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/test-expressions)|
   > |5|Test Expectations|[련호]|[PPT](https://paper.dropbox.com/doc/Linked-List--AsjwdT_JJorafcHZI6BknxXKAg-PhhtalXnsUhBPqZpXdC0v)|
   > |6|Dependency Injection & Mocks|[성훈]||
 
