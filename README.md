@@ -26,8 +26,8 @@
   > |:---:| :--- | :---: | :--- |
   > |3|TDD App Setup|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/tdd-app-setup)|
   > |4|Test Expressions|[도미닉]|[슬라이드](https://www.slideshare.net/joonjhokil/test-expressions)|
-  > |5|Test Expectations|[련호]||
-  > |6|Dependency Injection & Mocks|[성훈]||
+  > |5|Test Expectations|[련호]|[PDF](Chapter5.pdf)|
+  > |6|Dependency Injection & Mocks|[성훈]|[PDF](Chapter6.pdf)|
 
 * **Section III: TDD with Networking**
   > | Ch# | Chapter Subject | Presenter | Note |
